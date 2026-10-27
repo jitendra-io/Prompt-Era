@@ -1,5 +1,5 @@
 **1. High Quality Image Transformation**
----
+
 A flawless, ultra-high-definition 4K digital enhancement of the exact provided reference image,
 maintaining absolute structural integrity, original composition, and exact color palette.
 The primary objective is pure resolution upscaling, transitioning the image to a crisp 3840x2160 pixel density.
@@ -23,4 +23,3 @@ Maximize image fidelity, utilizing best-in-class upscaling parameters and high-r
 Masterpiece, best quality, ultra-detailed, sharp focus, flawless clarity, high contrast, perfect lighting.
 Execute this enhancement with absolute precision, prioritizing strict fidelity over artistic interpretation.
 --no alterations, mutations, watermarks, text, extra objects, modified lighting, changed colors, artifacts
----
