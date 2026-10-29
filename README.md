@@ -30,3 +30,30 @@ Execute this enhancement with absolute precision, prioritizing strict fidelity o
 Isolate the primary subject completely. Remove the entire background and replace it with a solid, pure #00FF00 green screen (or pure #FFFFFF white / transparent).
 Strict constraint: Preserve every single original pixel, edge, fine detail, texture, color grading, shadow nuance, and feature of the subject with 100% fidelity. 
 Do not modify, redraw, smooth, or alter any part of the subject itself.
+
+
+**3. Futuristic Dark Theme**
+
+Core Concept & Subject:
+
+A high-octane split-image cinematic transformation depicting the high-tech metamorphosis of a urban combatant into an elite, cybernetic apex predator. On the left half, a brooding figure stands shrouded in atmospheric fog and desaturated midnight tones. On the right half, an explosive, seamless transformation unveils a badass cyber-enhanced Phantom operative. The central transition zone features shattered holographic glitches, disintegrating nanotech swarms, and high-frequency light arcs bridging human form to digital machine.
+
+Character Details & Cybernetics:
+
+The transformed operative is clad in matte-black obsidian tactical armor with jagged, angular carbon-fiber plating and exposed pneumatic hydraulics. Intricate sub-dermal circuits glow with violent crimson, deep neon-purple, and piercing electric-cyan energy lines that pulse along the spine, chest plate, and gauntlets. The face is covered by an aggressive, sharp-angled cybernetic helmet with a glowing dual-slit holographic visor emitting intense volumetric eye flares. Mechanical shoulder pauldrons feature exposed heatsinks, vented micro-thrusters, and floating tactical HUD diagnostics displaying glowing telemetry data in the air.
+
+Weaponry & VFX:
+
+The right arm is mid-assembly, transforming into an energy blade composed of solid plasma and floating nanotech shards. Surrounding the figure are wisps of dark smog, floating burning embers, swirling digital rain, and static electrical arcs snapping off the armor's hard points. Shockwaves of translucent holographic distortion ripple outward from the core of the figure, casting harsh rim lights onto the dark suit.
+
+Environment & Atmospheric Setting:
+
+Set in a rain-slicked, dystopian cyberpunk megacity at 3 AM. Massive towering skyscrapers feature dark, monolithic brutalist architecture wrapped in towering holographic advertisements and glowing neon Kanji signage reflected in oily street puddles. Dynamic rain streams vertically through cinematic volumetric fog, catching the harsh red and cyan light beams cast by overhead surveillance drones cutting through the smoggy sky.
+
+Lighting & Art Style:
+
+High-contrast key lighting, harsh shadows, dark synthwave tone, cinematic film noir color palette heavily weighted toward obsidian black, crimson red, violet, and electric blue. Deep pitch-black shadows with extreme edge-lit rim lighting emphasizing silhouette sharpness. Photorealistic texture details including scratched carbon fiber, rain-streaked metal, glowing optic lenses, and heat distortion waves around active thrusters.
+
+Technical & Engine Render Tags:
+
+Ultra-detailed 8K resolution, unreal engine 5 render look, cinematic lighting, volumetric smoke and fog, octane render style, ray-traced reflections, subsurface scattering, dramatic angle, wide-lens view, depth of field, action-movie poster aesthetic, 35mm lens photo quality.
