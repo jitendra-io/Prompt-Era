@@ -23,3 +23,10 @@ Maximize image fidelity, utilizing best-in-class upscaling parameters and high-r
 Masterpiece, best quality, ultra-detailed, sharp focus, flawless clarity, high contrast, perfect lighting.
 Execute this enhancement with absolute precision, prioritizing strict fidelity over artistic interpretation.
 --no alterations, mutations, watermarks, text, extra objects, modified lighting, changed colors, artifacts
+---
+
+**2. Backgroung Remover**
+
+Isolate the primary subject completely. Remove the entire background and replace it with a solid, pure #00FF00 green screen (or pure #FFFFFF white / transparent).
+Strict constraint: Preserve every single original pixel, edge, fine detail, texture, color grading, shadow nuance, and feature of the subject with 100% fidelity. 
+Do not modify, redraw, smooth, or alter any part of the subject itself.
