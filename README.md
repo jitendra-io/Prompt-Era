@@ -57,3 +57,25 @@ High-contrast key lighting, harsh shadows, dark synthwave tone, cinematic film n
 Technical & Engine Render Tags:
 
 Ultra-detailed 8K resolution, unreal engine 5 render look, cinematic lighting, volumetric smoke and fog, octane render style, ray-traced reflections, subsurface scattering, dramatic angle, wide-lens view, depth of field, action-movie poster aesthetic, 35mm lens photo quality.
+
+**4. Dark Theme Premium**
+
+Core Style & Palette:
+
+Transform the source image into a luxury dark-mode aesthetic featuring deep charcoal, pitch-black obsidian backgrounds, and high-contrast ambient lighting. Desaturate midtones while preserving vibrant, selective accent colors—such as metallic gold, deep crimson, electric cyan, or polished bronze—along key outlines and focal highlights.
+
+Lighting & Contrast:
+
+Apply dramatic chiaroscuro lighting with deep, rich shadows and crisp edge-lit rim highlights. Use soft volumetric studio lighting, subtle light shafts, and realistic reflections to make the central subject pop against the atmospheric darkness. Avoid muddy blacks; maintain clean tonal depth, sharp contrast, and smooth gradients throughout the shaded areas.
+
+Texture & Material Finish:
+
+Render all surfaces with premium, high-quality textures. Matte-finish backgrounds, polished dark glass, brushed aluminum, subtle carbon fiber weave, or smooth matte obsidian details. Add realistic specular reflections, soft glare on metallic trim, and dynamic ray-traced shadows that give the image a sleek, tactile depth.
+
+Atmosphere & Finishing Touches:
+
+Introduce subtle environmental atmosphere: thin wisps of cinematic low-lying smoke, faint floating light particles, or a gentle gradient glow emitting from behind the main subject. Maintain a clean, minimalist layout with high visual clarity and zero visual noise.
+
+Technical Quality Tags:
+
+Masterpiece quality, 8k resolution, cinematic commercial photography style, dark sleek aesthetic, Unreal Engine 5 render style, high dynamic range, crisp focus, studio lighting setup, premium editorial design, ultra-detailed textures.
